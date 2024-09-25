@@ -1,3 +1,4 @@
 xiaoyaliu/alist
 cloudreve/cloudreve
 langgenius/dify-api:0.6.15
+celaraze/chemex
