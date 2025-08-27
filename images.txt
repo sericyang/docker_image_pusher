@@ -1,2 +1,2 @@
 pubuzhixing/drawnix:latest
-DumbWareio/DumbAssets
+dumbwareio/dumbassets:latest
