@@ -1,1 +1,1 @@
-corentinth/it-tools:2024.10.22-7ca5933
+docker.elastic.co/elasticsearch/elasticsearch:8.11.4
