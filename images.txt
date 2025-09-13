@@ -1,1 +1,1 @@
-1panel/cordys-crm:v1.1.9
+louislam/uptime-kuma:1.23.16
