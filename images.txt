@@ -1,1 +1,2 @@
-minio/minio:RELEASE.2023-04-28T18-11-17Z
+postgres:17.6-alpine
+odoo:18.0
