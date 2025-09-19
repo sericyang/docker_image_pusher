@@ -1,2 +1,1 @@
-postgres:17.6-alpine
-odoo:18.0
+ xiaohu2023/dzzoffice
