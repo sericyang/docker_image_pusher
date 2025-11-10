@@ -1,1 +1,1 @@
-mariadb:lts
+pubuzhixing/drawnix:latest
