@@ -1,1 +1,1 @@
-ghcr.io/nezhahq/nezha:v1.14.9
+louislam/uptime-kuma:2.4.0
