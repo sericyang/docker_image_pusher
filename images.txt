@@ -1,1 +1,1 @@
-louislam/uptime-kuma:2.4.0
+zabbix/zabbix-java-gateway:alpine-latest
