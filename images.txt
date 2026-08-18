@@ -1,1 +1,1 @@
-zabbix/zabbix-java-gateway:alpine-latest
+openvpn/openvpn-as:latest
